@@ -17,4 +17,5 @@ O "Mulheres em Tech Brasil" é um projeto que visa destacar e reconhecer as mulh
 - Cadastro de mulheres na tecnologia, incluindo nome, URL da foto, minibio e citação.
 - Exibição dos perfis cadastrados em forma de cards no site.
 
-[Título](https://drive.google.com/file/d/1WlOW1xf6plBzQJ7HRL0yDtLggJMIfrXb/view?usp=drive_link)
+![Título](https://drive.google.com/file/d/1WlOW1xf6plBzQJ7HRL0yDtLggJMIfrXb/view?usp=drive_link)
+
