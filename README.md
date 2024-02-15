@@ -1,4 +1,4 @@
-# Mulheres em Tech Brasil
+# Minha Primeira API: Mulheres em Tech Brasil
 
 Este projeto foi desenvolvido como resultado do curso de back-end da PrograMaria, com o objetivo de aprender sobre o desenvolvimento de servidores, métodos HTTP e integração com o banco de dados MongoDB.
 
